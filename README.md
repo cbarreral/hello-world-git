@@ -2,5 +2,12 @@
 ## Esto seria un h2
 ### Esto seria un h3
 #### Esto seria un h4
-helloGit
-Aliqua cupidatat anim qui occaecat irure ipsum.
+
+Underline 1
+------
+Underline 2
+==
+
+- texto *italica*
+- texto **negrita**
+- text ~~tachado~~
