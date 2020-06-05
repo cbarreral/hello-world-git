@@ -19,3 +19,7 @@ Underline 2
 # links
 
 - [Esto es un link en Mardown](http://google.com)
+
+# imagenes
+
+![Logo](https://1000marcas.net/wp-content/uploads/2020/02/GitHub-Logo.jpg)
